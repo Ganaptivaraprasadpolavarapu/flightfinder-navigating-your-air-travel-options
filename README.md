@@ -1,4 +1,4 @@
-# VANKAYALA-GANESH-SIVA-SAI-KRISHNA-flightfinder-navigating-your-air-travel-options
+# flightfinder-navigating-your-air-travel-options
 # ✈️ FlightFinder – Navigating Your Air Travel Options
 
 FlightFinder is a full-stack **Flight Booking Web Application** developed using the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**.  
